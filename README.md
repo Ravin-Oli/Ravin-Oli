@@ -1,7 +1,6 @@
 ## Hey There 👋
 
 - 🌱 I’m currently getting familiar with [React-Native](https://github.com/facebook/react-native)
-- 🤔 I'm looking to create automation software for Windows and Linux.
 - 💬 Pronouns ~ He/Him
 - 📫 How to reach me ~ [ravinder-Olivier@outlook.com](mailto:ravinder-Olivier@outlook.com)
 
