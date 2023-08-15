@@ -1,6 +1,6 @@
 ## Hey There 👋
 
-- 🌱 I’m currently getting familiar with [React-Native](https://github.com/facebook/react-native)
+- 🌱 I’m currently learning HAproxy for the [ISB3DPRINTERS project](github.com/ISB3DPRINTERS)
 - 💬 Pronouns ~ He/Him
 - 📫 How to reach me ~ [ravinder-Olivier@outlook.com](mailto:ravinder-Olivier@outlook.com)
 
