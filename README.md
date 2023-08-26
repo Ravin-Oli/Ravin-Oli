@@ -14,7 +14,7 @@
 
 - [Feeder-CLI](https://github.com/ravinder-Olivier/Feeder-CLI)
 - [Next-JS Template Blog](https://github.com/ravinder-Olivier/NextJS-Template-Blog)
-  [Reverse Array new] (https://github.com/ravinder-Olivier/reverse-array-new) 
+-[Reverse Array new] (https://github.com/ravinder-Olivier/reverse-array-new) 
 
 #### Developing Projects
 - [Booker](https://github.com/ravinder-Olivier/Booker)
