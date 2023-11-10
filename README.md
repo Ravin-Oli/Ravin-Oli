@@ -13,7 +13,7 @@
 #### Maintained Projects
 
 - [Feeder-CLI](https://github.com/ravinder-Olivier/Feeder-CLI)
-- [Next-JS Template Blog](https://github.com/ravinder-Olivier/NextJS-Template-Blog)
+- [Rust-React Template Blog](https://github.com/ravinder-Olivier/rust-react-template-blog)
 - [Reverse Array new](https://github.com/ravinder-Olivier/reverse-array-new) 
 
 #### Developing Projects
