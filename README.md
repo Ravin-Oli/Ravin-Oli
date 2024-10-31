@@ -1,8 +1,6 @@
 ## Hey There 👋
 
-- 🌱 I’m currently learning HAproxy for the [ISB3DPRINTERS project](https://github.com/ISB3DPRINTERS)
-- 💬 Pronouns ~ He/Him
-- 📫 How to reach me ~ [ravinder-Olivier@outlook.com](mailto:ravinder-Olivier@outlook.com)
+-  How to reach me ~ [ravinder-Olivier@outlook.com](mailto:ravinder-Olivier@outlook.com)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=ravinder-Olivier&theme=algolia)
